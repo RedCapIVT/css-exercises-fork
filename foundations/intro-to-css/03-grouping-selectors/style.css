@@ -1,1 +1,33 @@
-/* Add CSS Styling */
+/*.button{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+
+.clickleft{
+    background-color: rgb(0,0,0);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.clickright{
+    background-color: hsl(69, 92%, 52%);
+
+}
+    */
+
+
+.buttonleft, .buttonright{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.buttonleft{
+    background-color: rgb(0,0,0);
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+}
+
+.buttonright{
+    background-color: hsl(69, 92%, 52%);
+}

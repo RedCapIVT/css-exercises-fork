@@ -1,1 +1,41 @@
-/* Add CSS Styling */
+/* p{
+    background-color: rgb(231, 134, 134);
+    font-family: verdana, Deja-Vu Sans, sans-serif;
+}
+
+#four{
+    background-color: rgb(117, 255, 117);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#two{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.three{
+    font-size: 24px;
+}
+*/
+
+.uneven{
+    background-color: rgb(231, 134, 134);
+    font-family: verdana, Deja-Vu Sans, sans-serif;
+}
+
+.three{
+    font-size: 24px;
+}
+
+#four{
+    background-color: rgb(117, 255, 117);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+#two{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
