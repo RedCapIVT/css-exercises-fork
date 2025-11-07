@@ -1,6 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+} 
+
 .header  {
+  padding: 10px;
   font-family: monospace;
   background: papayawhip;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .logo {
@@ -11,9 +20,23 @@
   padding: 4px 32px;
 }
 
+/*SUPERFLUOUS
+.left-links{
+  display: flex;
+  align-items: center;
+}
+.right-links{
+  display: flex;
+  align-items: center;
+} */
+
 ul {
   /* this removes the dots on the list items*/
+  margin: 10px;
+  gap: 1rem;
   list-style-type: none;
+  display: flex;
+  
 }
 
 a {
